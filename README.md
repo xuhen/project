@@ -19,4 +19,4 @@
 open app with development mode
 
 	gulp build 
-get final html, css, js and images after a series of compilement, uglify and 
+get final html, css, js and images after a series of compiling, uglify and minify
