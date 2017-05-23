@@ -1,0 +1,14 @@
+.testing {
+	display: flex;
+	width: percentage(5/7);
+}
+
+body {
+	background-color: #eee;
+	font-family: myFont;
+}
+
+@font-face {
+	font-family: myFont;
+	src: url('../fonts/zktqkt.ttf'),
+}

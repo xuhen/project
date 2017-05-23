@@ -1,0 +1,15 @@
+.testing {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 71.42857%; }
+
+body {
+  background-color: #eee;
+  font-family: myFont; }
+
+@font-face {
+  font-family: myFont;
+  src: url("../fonts/zktqkt.ttf"); }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0MscUJBQWE7RUFBYixxQkFBYTtFQUFiLGNBQWE7RUFDYixpQkFBc0IsRUFDdEI7O0FBRUQ7RUFDQyx1QkFBc0I7RUFDdEIsb0JBQW1CLEVBQ25COztBQUVEO0VBQ0Msb0JBQW1CO0VBQ25CLGdDQUErQixFQUFBIiwiZmlsZSI6InN0eWxlcy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIudGVzdGluZyB7XG5cdGRpc3BsYXk6IGZsZXg7XG5cdHdpZHRoOiBwZXJjZW50YWdlKDUvNyk7XG59XG5cbmJvZHkge1xuXHRiYWNrZ3JvdW5kLWNvbG9yOiAjZWVlO1xuXHRmb250LWZhbWlseTogbXlGb250O1xufVxuXG5AZm9udC1mYWNlIHtcblx0Zm9udC1mYW1pbHk6IG15Rm9udDtcblx0c3JjOiB1cmwoJy4uL2ZvbnRzL3prdHFrdC50dGYnKSxcbn0iXX0= */
